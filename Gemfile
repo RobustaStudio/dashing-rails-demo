@@ -16,7 +16,7 @@ end
 
 # group :development do
 # end
-gem 'sqlite3'
+# gem 'sqlite3'
 
 gem 'dashing-rails'
 gem 'puma'
